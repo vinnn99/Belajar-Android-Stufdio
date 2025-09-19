@@ -182,7 +182,7 @@ fun EditProfileScreen(
         verticalArrangement = Arrangement.spacedBy(16.dp)
     ) {
         Text("Edit Profile", fontSize = 24.sp, fontWeight = FontWeight.Bold)
-// hai
+// haii
         OutlinedTextField(
             value = name,
             onValueChange = { name = it },
